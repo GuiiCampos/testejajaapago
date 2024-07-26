@@ -1,0 +1,7 @@
+img{
+    width: 50px;
+}
+
+img[alt = "second"] {
+    width: 200px;
+}
